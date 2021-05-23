@@ -6,3 +6,8 @@ JaysLogger: Session/User = 34384, Date = Sun May 23 08:19:54 GMT 2021, Environme
 JaysLogger: Session/User = 17842, Date = Sun May 23 08:20:22 GMT 2021, Environment = debug, ERROR: TEST_ERROR_LOG -> TEST_ERROR_MESSAGE
 JaysLogger: Session/User = 76139, Date = Sun May 23 08:20:22 GMT 2021, Environment = debug, DEBUG: TEST_DEBUG_LOG -> TEST_DEBUG_MESSAGE
 JaysLogger: Session/User = 91380, Date = Sun May 23 08:20:22 GMT 2021, Environment = debug, INFO: TEST_INFO_LOG -> TEST_INFO_MESSAGE
+JaysLogger: Session/User = 83540, Date = Sun May 23 08:27:01 GMT 2021, Environment = debug, DEBUG: TEST_DEBUG_LOG -> TEST_DEBUG_MESSAGE
+JaysLogger: Session/User = 58884, Date = Sun May 23 08:27:33 GMT 2021, Environment = debug, ERROR: TEST_ERROR_LOG -> TEST_ERROR_MESSAGE
+JaysLogger: Session/User = 96603, Date = Sun May 23 08:27:33 GMT 2021, Environment = debug, DEBUG: TEST_DEBUG_LOG -> TEST_DEBUG_MESSAGE
+JaysLogger: Session/User = 84716, Date = Sun May 23 08:27:33 GMT 2021, Environment = debug, INFO: TEST_INFO_LOG -> TEST_INFO_MESSAGE
+JaysLogger: Session/User = Jays, Date = Sun May 23 08:27:33 GMT 2021, Environment = debug, DEBUG: TEST_DEBUG_LOG -> TEST_DEBUG_MESSAGE

@@ -40,4 +40,11 @@ class JaysLoggerTest : TestCase(){
         logger.error("TEST_ERROR_LOG", "TEST_ERROR_MESSAGE")
         assertEquals(logger.logString, "JaysLogger: Session/User = ${logger.sessOrUser}, Date = ${Date()}, Environment = ${BuildConfig.BUILD_TYPE}, ERROR: TEST_ERROR_LOG -> TEST_ERROR_MESSAGE")
     }
+
+    @Test
+    fun loggingWithName(){
+        logger = Logger(context!!, "Jays")
+        logger.debug("TEST_DEBUG_LOG", "TEST_DEBUG_MESSAGE")
+        assertEquals(logger.logString, "JaysLogger: Session/User = Jays, Date = ${Date()}, Environment = ${BuildConfig.BUILD_TYPE}, DEBUG: TEST_DEBUG_LOG -> TEST_DEBUG_MESSAGE")
+    }
 }
