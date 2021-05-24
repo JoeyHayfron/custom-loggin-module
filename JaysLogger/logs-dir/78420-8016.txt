@@ -1,0 +1,14 @@
+JaysLogger: Session = 332203, UserID = 11923, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, INFO: INFO_TAG -> INFO_LOG_MESSAGE 
+JaysLogger: Session = 332200, UserID = 11920, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, ERROR: ERROR_TAG -> ERROR_LOG_MESSAGE 
+JaysLogger: Session = 332201, UserID = 11921, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, DEBUG: DEBUG_TAG -> DEBUG_LOG_MESSAGE 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, DEBUG: Test Debug -> Test Debug Message 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, INFO: Test Info -> Test Info Message 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, ERROR: Test Error -> Test Error Message 
+
+JaysLogger: Session = 332203, UserID = 11923, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, INFO: INFO_TAG -> INFO_LOG_MESSAGE 
+JaysLogger: Session = 332200, UserID = 11920, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, ERROR: ERROR_TAG -> ERROR_LOG_MESSAGE 
+JaysLogger: Session = 332201, UserID = 11921, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, DEBUG: DEBUG_TAG -> DEBUG_LOG_MESSAGE 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, DEBUG: Test Debug -> Test Debug Message 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, INFO: Test Info -> Test Info Message 
+JaysLogger: Session = 78420, UserID = 8016, Date = Mon May 24 13:36:15 GMT 2021, Environment = DEBUG, ERROR: Test Error -> Test Error Message 
+

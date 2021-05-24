@@ -1,0 +1,8 @@
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, DEBUG: Test Debug -> Test Debug Message 
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, INFO: Test Info -> Test Info Message 
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, ERROR: Test Error -> Test Error Message 
+
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, DEBUG: Test Debug -> Test Debug Message 
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, INFO: Test Info -> Test Info Message 
+JaysLogger: Session = 85253, UserID = 9259, Date = Mon May 24 12:55:55 GMT 2021, Environment = DEBUG, ERROR: Test Error -> Test Error Message 
+

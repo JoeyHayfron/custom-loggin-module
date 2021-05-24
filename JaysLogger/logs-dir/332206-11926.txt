@@ -1,0 +1,6 @@
+JaysLogger: Session = 332205, UserID = 11925, Date = Mon May 24 13:37:07 GMT 2021, Environment = DEBUG, INFO: INFO_TAG -> INFO_LOG_MESSAGE 
+JaysLogger: Session = 332204, UserID = 11924, Date = Mon May 24 13:37:07 GMT 2021, Environment = DEBUG, ERROR: ERROR_TAG -> ERROR_LOG_MESSAGE 
+JaysLogger: Session = 332206, UserID = 11926, Date = Mon May 24 13:37:07 GMT 2021, Environment = DEBUG, DEBUG: DEBUG_TAG -> DEBUG_LOG_MESSAGE 
+
+JaysLogger: Session = 332206, UserID = 11926, Date = Mon May 24 13:37:59 GMT 2021, Environment = DEBUG, DEBUG: DEBUG_TAG -> DEBUG_LOG_MESSAGE 
+
