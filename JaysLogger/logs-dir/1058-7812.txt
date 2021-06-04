@@ -1,0 +1,2 @@
+JaysLogger: Session = 1058, UserID = 7812, Date = Mon May 24 16:16:26 GMT 2021, Environment = DEBUG, INFO: INFO_TAG -> INFO_LOG_MESSAGE 
+

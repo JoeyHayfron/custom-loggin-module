@@ -1,4 +1,4 @@
-#**Custom Logging Module (Logging with Unit Tests)**
+**Custom Logging Module (Logging with Unit Tests)**
 
 **Problem Statement:**
 
